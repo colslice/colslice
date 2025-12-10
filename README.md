@@ -1,4 +1,3 @@
-- Hi, I’m @colslice
 - I'm a Computer Science student at UCF
 - Pronouns: He/Him
 
