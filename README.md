@@ -8,7 +8,7 @@ Computer Science student at UCF | Software Engineering Internship Cnadidate
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/colinhopkins20)
-- [Email](colinhopkins14@gmail.com)
+- [Email](mailto:colinhopkins14@gmail.com)
 
 
 <!---
