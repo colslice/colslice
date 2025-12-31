@@ -1,5 +1,15 @@
-- I'm a Computer Science student at UCF
-- Pronouns: He/Him
+# Hi, I'm Colin
+Computer Science student at UCF | Software Engineering Internship Cnadidate
+
+## Skills
+- Python, C, Java
+- Git, Linux
+- Data Structures, Algorithms, ML
+
+## Contact
+- [LinkedIn](https://linkedin.com/in/colinhopkins20)
+- [Email](colinhopkins14@gmail.com)
+
 
 <!---
 colslice/colslice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
