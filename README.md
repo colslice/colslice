@@ -1,5 +1,5 @@
 # Hi, I'm Colin
-Computer Science student at UCF | Software Engineering Internship Cnadidate
+Computer Science student at UCF | Software Engineering Internship Candidate
 
 ## Skills
 - Python, C, Java
